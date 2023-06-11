@@ -4,14 +4,14 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>About - Tiffany St-Surin</title>
-	<link rel="stylesheet" href="asset/css/about.css">
+	<link rel="stylesheet" href="Asset/css/about.css">
 </head>
 <body>
 <header class="page-header">
 		<div class="container">
 			<div class="header-flex">
 				<div class="logo">
-					<a href="index.html">
+					<a href="index.php">
 						<h2>TS</h2>
 					</a>
 				</div>
@@ -19,10 +19,10 @@
 				<nav>
 					<ul class="header-menu">
 						<li>
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href="about.html">About</a>
+							<a href="about.php">About</a>
 						</li>
 						
 						<li>
