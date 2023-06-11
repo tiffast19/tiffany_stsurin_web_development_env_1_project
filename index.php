@@ -16,17 +16,13 @@
 					</a>
 				</div>
 
-				<div class="andres">
-					<i class="fa-solid fa-bars"></i>
-				</div>
-
 				<nav>
 					<ul class="header-menu">
 						<li>
 							<a href="index.html">Home</a>
 						</li>
 						<li>
-							<a href="about.php">About</a>
+							<a href="about.html">About</a>
 						</li>
 						
 						<li>
@@ -46,7 +42,8 @@
 	</section>
 
 	<section class="cta">
-		<h3>Contact me</h3>
+		<h3>For more info</h3>
+        <a href="" class="btn">Contact me</a>
 	</section>
 
 	
